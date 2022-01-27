@@ -1,8 +1,8 @@
 # Disposition-Routing-Algorithm
 This algorithm finds out how much inventory to be utilized for:
-Demand Satisfaction
-Substitution
-Another item's demand by breaking itself
-Keep Quantity Requirement
-Safety Net
-Liquidation/Retirement
+1. Demand Satisfaction
+2. Substitution
+3. Another item's demand by breaking itself
+4. Keep Quantity Requirement
+5. Safety Net
+6. Liquidation/Retirement
